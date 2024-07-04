@@ -1,4 +1,4 @@
-import Directory from './components/categories/categories.component.jsx';
+import Directory from './components/directory/directory.component.jsx';
 
 const App = () => {
 
