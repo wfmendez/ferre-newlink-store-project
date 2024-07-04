@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Herramientas",
+    "imageUrl": "https://images.unsplash.com/photo-1590880795696-20c7dfadacde?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "title": "Materiales de Construcción",
+    "imageUrl": "https://images.unsplash.com/photo-1580810734754-711d6c5d55b0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "title": "Fontanería",
+    "imageUrl": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "title": "Electricidad",
+    "imageUrl": "https://images.unsplash.com/photo-1536664607464-9a9419341c4d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "title": "Pinturas y Acabados",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664303562514-3a923e14732e?q=80&w=1375&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
