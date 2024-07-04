@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Herramientas",
+    "imageUrl": "https://i.ibb.co/zbWj966/adam-patterson-v13x0q-U4af-A-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Materiales de Construcción",
+    "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+  },
+  {
+    "id": 3,
+    "title": "Fontanería",
+    "imageUrl": "https://i.ibb.co/0jqHpnp/sneakers.png"
+  },
+  {
+    "id": 4,
+    "title": "Electricidad",
+    "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png"
+  },
+  {
+    "id": 5,
+    "title": "Pinturas y Acabados",
+    "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
+  }
+]
