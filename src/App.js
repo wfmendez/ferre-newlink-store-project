@@ -2,9 +2,7 @@ import Directory from './components/directory/directory.component.jsx';
 
 const App = () => {
 
-  return (
-    <Directory></Directory>
-  );
+  return <Directory />;
 }
 
 export default App;
