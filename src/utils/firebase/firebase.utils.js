@@ -6,6 +6,13 @@ import {
     GoogleAuthProvider 
 } from 'firebase/auth';
 
+import {
+    getFirestore,
+    doc,
+    getDoc,
+    setDoc
+} from 'firebase/firestore';
+
 const firebaseConfig = {
   apiKey: "AIzaSyD9_mkMqPEaJHku-RvO-iu5-36rsT6TRXQ",
   authDomain: "ferre-newlink.firebaseapp.com",
@@ -25,3 +32,11 @@ provider.setCustomParameters({
 
 export const auth = getAuth();
 export const signInWithGooglePopup = () => signInWithPopup(auth, provider);
+
+export const db = getFirestore();
+
+export const createUserDocumentFromAuth = async (userAuth) => {
+    const UserDocRef = doc(db, 'users', userAuth.uid);
+
+    console.log(UserDocRef);
+}
