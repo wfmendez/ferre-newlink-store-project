@@ -7,8 +7,16 @@
 
     .logo-container {
         height: 100%;
-        width: 70px;
+        width: 200px;
         padding: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .logo {
+            width: 100%;
+            height: auto;
+        }
     }
 
     .nav-links-container {
