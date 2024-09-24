@@ -1,49 +1,49 @@
 [
   {
     "id": 1,
-    "name": "Moto Bomba Centrífuga Autocebante a Gasolina U.S.K (De 2 Pulgadas y Motor 7.0 Hp)",
+    "name": "Moto Bomba)",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_986996-MLV76040163534_052024-O.webp",
     "price": 180
   },
   {
     "id": 2,
-    "name": "Moto Bomba Centrífuga Autocebante a Gasolina U.S.K (De 3 Pulgadas y Motor 7.0 Hp)",
+    "name": "Moto Bomba )",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_713405-MLV76222309577_052024-O.webp",
     "price": 195
   },
   {
     "id": 3,
-    "name": "Moto Bomba Centrífuga a Gasolina U.S.K. (De 3 Pulgadas y Motor 7.0 Hp)",
+    "name": "Moto Bomba ",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_836611-MLV76041540268_052024-O.webp",
     "price": 340
   },
   {
     "id": 4,
-    "name": "Moto Bomba Centrifuga a Gasolina U.S.K. (De 2 Pulgadas y Motor 9.0)",
+    "name": "Moto Bomba ",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_601751-MLV76060916500_052024-O.webp",
     "price": 440
   },
   {
     "id": 5,
-    "name": "Moto Bomba Centrifuga a Gasolina  U.S.K. (De 3 Pulgadas y Motor 15.0 Hp)",
+    "name": "Moto Bomba ",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_882559-MLV76223715141_052024-O.webp",
     "price": 520
   },
   {
     "id": 6,
-    "name": "Moto Bomba Centrifuga a Gasolina INGCO (De 1 Pulgada y Motor 2.5 Hp)",
+    "name": "Moto Bomba ",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_705412-MLV77466640479_072024-O.webp",
     "price": 185
   },
   {
     "id": 7,
-    "name": "Martillo Rompe Asfalto U.S.K. a Gasolina",
+    "name": "Martillo Rompe Asfalto ",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_701675-MLV76158036322_052024-O.webp",
     "price": 286
   },
   {
     "id": 8,
-    "name": "Martillo Rompe Asfalto U.S.K. a Gasolina",
+    "name": "Martillo Rompe Asfalto",
     "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_701675-MLV76158036322_052024-O.webp",
     "price": 286
   }
