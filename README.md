@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+ferre-newlink-store-project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ferre Newlink E-commerce 🏗️🛒
 
-## Available Scripts
+Welcome to the Ferre Newlink Store Project repository! 👋 This project is a complete online store developed for "Ferre Newlink," a fictional hardware store. It was a pivotal project in my learning journey, where I applied and consolidated a wide range of skills in React for the frontend and Firebase for the backend and data management.
 
-In the project directory, you can run:
+This website is not just an attractive user interface; it also integrates crucial e-commerce and authentication functionalities, demonstrating my ability to build robust and dynamic web applications.
 
-### `npm start`
+Project Goal & Key Learnings 🎯
+Developing the Ferre Newlink online store was an intensive experience that allowed me to learn and apply the following concepts:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React Component Development: Building a modular and reusable user interface, a cornerstone of React.
+State Management with React Context: Efficiently handling the application's global state (e.g., user or shopping cart state) without needing additional libraries.
+User Authentication with Firebase: Implementing secure login systems using email/password and Google accounts (OAuth).
+NoSQL Database with Firebase (Firestore): Creating and managing a database to store and link product information (name, description, price, image) directly with the website.
+Routing with React Router: Seamless navigation between different store sections and pages.
+Advanced Styling with Sass: Using Sass for more efficient and powerful style organization.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Highlighted Store Features ✨
 
-### `npm test`
+Homepage and Product Catalog: Displays Ferre Newlink's categories and products.
+Category Pages: Shows products filtered by specific categories.
+Product Detail: Interactive product card components.
+Shopping Cart: Full functionality to add, remove, and adjust product quantities in the cart.
+Checkout Page: Order summary and preparation for purchase completion.
+Complete Authentication System:
+New user registration.
+Email and password login.
+Google account login (Google Sign-In).
+User session persistence.
+Firebase Integration:
+Authentication: For user management.
+Firestore Database: For storing product and other relevant data.
+Modular and Scalable Design: Built with reusable React components to facilitate future expansions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Technologies Used 💻
 
-### `npm run build`
+Frontend:
+React: The main library for building the user interface.
+React Router: For routing and navigation management.
+Sass (SCSS): For robust and modular CSS preprocessing.
+HTML & CSS: The essential foundations.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Backend & Database:
+Firebase Authentication: For user management and authentication.
+Firestore Database: NoSQL database for storing product information and other relevant data.
+Lessons Deepened 🧠
+This project allowed me to dive deep into several critical aspects of modern web development:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React Component Usage: How to break down a complex UI into small, manageable components.
+Global State Management: Understanding when and how to use React Context to avoid "prop drilling."
+Secure Authentication Flows: Practical implementation of different authentication methods and user session handling.
+Data Modeling and Persistence: Designing data schemas in Firestore and how to link database data with the user interface.
+API Consumption (Firebase): Bidirectional interaction with backend services to fetch, add, and update data.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Installation and Running the Project ▶️
 
-### `npm run eject`
+To explore the Ferre Newlink website on your machine:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the repository:
+Bash
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+git clone https://github.com/wfmendez/ferre-newlink-store-project.git
+Navigate to the project directory:
+Bash
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+cd ferre-newlink-store-project
+Install dependencies:
+Bash
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm install
+# or if you use yarn
+# yarn install
+Configure Firebase: You'll need to create a project in Firebase, enable Authentication (Email/Password and Google) and Firestore, then configure your Firebase project credentials in an .env file or directly in your code (make sure not to upload sensitive keys to public repositories).
+Run the application:
+Bash
 
-## Learn More
+npm start
+# or if you use yarn
+# yarn start
+This will open the website in your browser (usually at http://localhost:3000).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Author
+Wuillian Fernando Mendez Garcia
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[GitHub Profile](https://github.com/wfmendez)
+[LinkedIn Profile](https://www.linkedin.com/in/wf-mendez/)
